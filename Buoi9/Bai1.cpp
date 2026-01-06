@@ -3,7 +3,7 @@ using namespace std;
 typedef long long ll;
 
  int main(){
- 	cout << "Hello world !!" << endl; 
+ 	cout << "DSA data structor algorithsm" << endl; 
 	return 0;
 }
 
